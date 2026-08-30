@@ -1,0 +1,12 @@
+{
+  "name": "GRI-Bench",
+  "version": "1.4",
+  "n_fg_gri": 904,
+  "n_cg_vat": 200,
+  "n_cg_gf": 283,
+  "n_total": 1387,
+  "contains_fg_images": false,
+  "contains_cg_images": false,
+  "contains_unigaze_arrows": false,
+  "join_key": "source_relpath"
+}

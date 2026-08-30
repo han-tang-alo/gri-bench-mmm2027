@@ -1,0 +1,2549 @@
+{
+  "gf:test/00000000/00000253.jpg": {
+    "start_x": 0.58727,
+    "start_y": 0.13359,
+    "end_x": 0.43832,
+    "end_y": 0.111924,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000000/00000816.jpg": {
+    "start_x": 0.21636,
+    "start_y": 0.34727,
+    "end_x": 0.356359,
+    "end_y": 0.65515,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000003/00003037.jpg": {
+    "start_x": 0.202,
+    "start_y": 0.29641,
+    "end_x": 0.416005,
+    "end_y": 0.93113,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000001/00001858.jpg": {
+    "start_x": 0.73818,
+    "start_y": 0.35697,
+    "end_x": 0.690892,
+    "end_y": 0.634563,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000000/00000992.jpg": {
+    "start_x": 0.51273,
+    "start_y": 0.48092,
+    "end_x": 0.6572,
+    "end_y": 0.542293,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000000/00000860.jpg": {
+    "start_x": 0.56215,
+    "start_y": 0.35636,
+    "end_x": 0.618118,
+    "end_y": 0.1054,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000002/00002551.jpg": {
+    "start_x": 0.45097,
+    "start_y": 0.13149,
+    "end_x": 0.518658,
+    "end_y": 0.709116,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000004/00004769.jpg": {
+    "start_x": 0.45273,
+    "start_y": 0.27328,
+    "end_x": 0.655165,
+    "end_y": 0.657038,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000003/00003180.jpg": {
+    "start_x": 0.61455,
+    "start_y": 0.47576,
+    "end_x": 0.645967,
+    "end_y": 0.143604,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000001/00001059.jpg": {
+    "start_x": 0.36182,
+    "start_y": 0.15955,
+    "end_x": 0.08766,
+    "end_y": 0.870491,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000002/00002096.jpg": {
+    "start_x": 0.2697,
+    "start_y": 0.48545,
+    "end_x": 0.415686,
+    "end_y": 0.659557,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000001/00001831.jpg": {
+    "start_x": 0.53273,
+    "start_y": 0.59857,
+    "end_x": 0.221359,
+    "end_y": 0.79818,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000004/00004750.jpg": {
+    "start_x": 0.56443,
+    "start_y": 0.628,
+    "end_x": 0.829926,
+    "end_y": 0.053409,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000002/00002307.jpg": {
+    "start_x": 0.11818,
+    "start_y": 0.20909,
+    "end_x": 0.213601,
+    "end_y": 0.073765,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000002/00002299.jpg": {
+    "start_x": 0.55657,
+    "start_y": 0.50727,
+    "end_x": 0.90451,
+    "end_y": 0.65469,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000004/00004377.jpg": {
+    "start_x": 0.58204,
+    "start_y": 0.27333,
+    "end_x": 0.819107,
+    "end_y": 0.3994,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000004/00004677.jpg": {
+    "start_x": 0.48182,
+    "start_y": 0.39372,
+    "end_x": 0.190086,
+    "end_y": 0.325614,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000002/00002508.jpg": {
+    "start_x": 0.28727,
+    "start_y": 0.35557,
+    "end_x": 0.465625,
+    "end_y": 0.948473,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000002/00002686.jpg": {
+    "start_x": 0.14909,
+    "start_y": 0.21782,
+    "end_x": 0.829085,
+    "end_y": 0.201702,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000001/00001409.jpg": {
+    "start_x": 0.49636,
+    "start_y": 0.30073,
+    "end_x": 0.23091,
+    "end_y": 0.53936,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000004/00004271.jpg": {
+    "start_x": 0.52545,
+    "start_y": 0.12004,
+    "end_x": 0.102808,
+    "end_y": 0.13731,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000000/00000404.jpg": {
+    "start_x": 0.70182,
+    "start_y": 0.33296,
+    "end_x": 0.555622,
+    "end_y": 0.838093,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000004/00004778.jpg": {
+    "start_x": 0.18,
+    "start_y": 0.30848,
+    "end_x": 0.794142,
+    "end_y": 0.878422,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000004/00004359.jpg": {
+    "start_x": 0.36169,
+    "start_y": 0.40195,
+    "end_x": 0.568615,
+    "end_y": 0.23183,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000003/00003423.jpg": {
+    "start_x": 0.49071,
+    "start_y": 0.242,
+    "end_x": 0.848303,
+    "end_y": 0.324001,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000003/00003698.jpg": {
+    "start_x": 0.795,
+    "start_y": 0.40333,
+    "end_x": 0.289553,
+    "end_y": 0.321026,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000004/00004370.jpg": {
+    "start_x": 0.728,
+    "start_y": 0.268,
+    "end_x": 0.386013,
+    "end_y": 0.609012,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000003/00003187.jpg": {
+    "start_x": 0.686,
+    "start_y": 0.38,
+    "end_x": 0.261996,
+    "end_y": 0.38133,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000000/00000451.jpg": {
+    "start_x": 0.55287,
+    "start_y": 0.14221,
+    "end_x": 0.4029,
+    "end_y": 0.865166,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000003/00003340.jpg": {
+    "start_x": 0.48629,
+    "start_y": 0.13435,
+    "end_x": 0.345627,
+    "end_y": 0.978327,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000000/00000225.jpg": {
+    "start_x": 0.82505,
+    "start_y": 0.33636,
+    "end_x": 0.872957,
+    "end_y": 0.518695,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000001/00001326.jpg": {
+    "start_x": 0.475,
+    "start_y": 0.33667,
+    "end_x": 0.269305,
+    "end_y": 0.795516,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000001/00001794.jpg": {
+    "start_x": 0.64727,
+    "start_y": 0.36647,
+    "end_x": 0.612974,
+    "end_y": 0.063803,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000001/00001553.jpg": {
+    "start_x": 0.85273,
+    "start_y": 0.5247,
+    "end_x": 0.65543,
+    "end_y": 0.692006,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000004/00004760.jpg": {
+    "start_x": 0.66182,
+    "start_y": 0.25474,
+    "end_x": 0.444648,
+    "end_y": 0.85497,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000002/00002623.jpg": {
+    "start_x": 0.796,
+    "start_y": 0.138,
+    "end_x": 0.590732,
+    "end_y": 0.211157,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000002/00002184.jpg": {
+    "start_x": 0.34909,
+    "start_y": 0.28471,
+    "end_x": 0.096635,
+    "end_y": 0.784689,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000004/00004766.jpg": {
+    "start_x": 0.57818,
+    "start_y": 0.29834,
+    "end_x": 0.33125,
+    "end_y": 0.82904,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000000/00000027.jpg": {
+    "start_x": 0.48424,
+    "start_y": 0.16347,
+    "end_x": 0.374542,
+    "end_y": 0.890188,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000001/00001085.jpg": {
+    "start_x": 0.42097,
+    "start_y": 0.21818,
+    "end_x": 0.777959,
+    "end_y": 0.736361,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000000/00000417.jpg": {
+    "start_x": 0.51635,
+    "start_y": 0.20364,
+    "end_x": 0.941722,
+    "end_y": 0.193271,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000002/00002487.jpg": {
+    "start_x": 0.15502,
+    "start_y": 0.17818,
+    "end_x": 0.322565,
+    "end_y": 0.181574,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000004/00004260.jpg": {
+    "start_x": 0.44909,
+    "start_y": 0.40578,
+    "end_x": 0.186291,
+    "end_y": 0.463326,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000003/00003692.jpg": {
+    "start_x": 0.35636,
+    "start_y": 0.12667,
+    "end_x": 0.347264,
+    "end_y": 0.742439,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000002/00002774.jpg": {
+    "start_x": 0.62333,
+    "start_y": 0.22062,
+    "end_x": 0.136942,
+    "end_y": 0.852812,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000000/00000075.jpg": {
+    "start_x": 0.82034,
+    "start_y": 0.14,
+    "end_x": 0.606274,
+    "end_y": 0.59532,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000002/00002154.jpg": {
+    "start_x": 0.62292,
+    "start_y": 0.37273,
+    "end_x": 0.662547,
+    "end_y": 0.891928,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000001/00001112.jpg": {
+    "start_x": 0.052745,
+    "start_y": 0.21324,
+    "end_x": 0.947268,
+    "end_y": 0.634821,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000003/00003353.jpg": {
+    "start_x": 0.49273,
+    "start_y": 0.26727,
+    "end_x": 0.912351,
+    "end_y": 0.852018,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000003/00003127.jpg": {
+    "start_x": 0.40545,
+    "start_y": 0.32559,
+    "end_x": 0.858138,
+    "end_y": 0.736961,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000001/00001387.jpg": {
+    "start_x": 0.504,
+    "start_y": 0.23273,
+    "end_x": 0.580991,
+    "end_y": 0.243653,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000001/00001650.jpg": {
+    "start_x": 0.04,
+    "start_y": 0.11637,
+    "end_x": 0.840291,
+    "end_y": 0.136926,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000003/00003469.jpg": {
+    "start_x": 0.35523,
+    "start_y": 0.29818,
+    "end_x": 0.532865,
+    "end_y": 0.456264,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000003/00003642.jpg": {
+    "start_x": 0.27455,
+    "start_y": 0.24727,
+    "end_x": 0.779043,
+    "end_y": 0.311379,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000002/00002286.jpg": {
+    "start_x": 0.32,
+    "start_y": 0.33725,
+    "end_x": 0.614555,
+    "end_y": 0.795669,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000001/00001275.jpg": {
+    "start_x": 0.57636,
+    "start_y": 0.21592,
+    "end_x": 0.18438,
+    "end_y": 0.913151,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000000/00000194.jpg": {
+    "start_x": 0.464,
+    "start_y": 0.21733,
+    "end_x": 0.246664,
+    "end_y": 0.306112,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000002/00002505.jpg": {
+    "start_x": 0.40545,
+    "start_y": 0.19455,
+    "end_x": 0.691731,
+    "end_y": 0.650552,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000004/00004357.jpg": {
+    "start_x": 0.736,
+    "start_y": 0.244,
+    "end_x": 0.457207,
+    "end_y": 0.680292,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000002/00002799.jpg": {
+    "start_x": 0.94121,
+    "start_y": 0.13636,
+    "end_x": 0.185071,
+    "end_y": 0.102417,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000001/00001768.jpg": {
+    "start_x": 0.54727,
+    "start_y": 0.38211,
+    "end_x": 0.834092,
+    "end_y": 0.422171,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000003/00003504.jpg": {
+    "start_x": 0.22909,
+    "start_y": 0.35316,
+    "end_x": 0.540198,
+    "end_y": 0.729414,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000001/00001312.jpg": {
+    "start_x": 0.83273,
+    "start_y": 0.22894,
+    "end_x": 0.122541,
+    "end_y": 0.141033,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000001/00001061.jpg": {
+    "start_x": 0.17818,
+    "start_y": 0.29928,
+    "end_x": 0.878138,
+    "end_y": 0.571126,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000001/00001524.jpg": {
+    "start_x": 0.43847,
+    "start_y": 0.18364,
+    "end_x": 0.387161,
+    "end_y": 0.813366,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000000/00000797.jpg": {
+    "start_x": 0.007879,
+    "start_y": 0.48364,
+    "end_x": 0.953006,
+    "end_y": 0.463447,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000000/00000359.jpg": {
+    "start_x": 0.22,
+    "start_y": 0.33677,
+    "end_x": 0.378168,
+    "end_y": 0.755374,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000002/00002035.jpg": {
+    "start_x": 0.68144,
+    "start_y": 0.15273,
+    "end_x": 0.161314,
+    "end_y": 0.549339,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000004/00004640.jpg": {
+    "start_x": 0.31818,
+    "start_y": 0.36424,
+    "end_x": 0.630912,
+    "end_y": 0.369093,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000001/00001744.jpg": {
+    "start_x": 0.20545,
+    "start_y": 0.2712,
+    "end_x": 0.7775,
+    "end_y": 0.23408,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000002/00002260.jpg": {
+    "start_x": 0.15273,
+    "start_y": 0.35551,
+    "end_x": 0.44531,
+    "end_y": 0.858089,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000002/00002416.jpg": {
+    "start_x": 0.75442,
+    "start_y": 0.27667,
+    "end_x": 0.787611,
+    "end_y": 0.76333,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000004/00004484.jpg": {
+    "start_x": 0.55091,
+    "start_y": 0.14868,
+    "end_x": 0.438179,
+    "end_y": 0.577179,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000003/00003450.jpg": {
+    "start_x": 0.156,
+    "start_y": 0.18208,
+    "end_x": 0.334181,
+    "end_y": 0.906494,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000000/00000247.jpg": {
+    "start_x": 0.75,
+    "start_y": 0.41867,
+    "end_x": 0.462891,
+    "end_y": 0.336507,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000003/00003360.jpg": {
+    "start_x": 0.54909,
+    "start_y": 0.31612,
+    "end_x": 0.898416,
+    "end_y": 0.297513,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000002/00002984.jpg": {
+    "start_x": 0.666,
+    "start_y": 0.404,
+    "end_x": 0.250001,
+    "end_y": 0.330668,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000002/00002682.jpg": {
+    "start_x": 0.68933,
+    "start_y": 0.378,
+    "end_x": 0.89862,
+    "end_y": 0.849566,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000004/00004570.jpg": {
+    "start_x": 0.11636,
+    "start_y": 0.4903,
+    "end_x": 0.840619,
+    "end_y": 0.454171,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000000/00000480.jpg": {
+    "start_x": 0.65902,
+    "start_y": 0.45866,
+    "end_x": 0.187101,
+    "end_y": 0.247229,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000001/00001549.jpg": {
+    "start_x": 0.18545,
+    "start_y": 0.31263,
+    "end_x": 0.521317,
+    "end_y": 0.705477,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000002/00002738.jpg": {
+    "start_x": 0.49333,
+    "start_y": 0.22705,
+    "end_x": 0.876584,
+    "end_y": 0.787512,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000003/00003398.jpg": {
+    "start_x": 0.14364,
+    "start_y": 0.21181,
+    "end_x": 0.335375,
+    "end_y": 0.50876,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000002/00002910.jpg": {
+    "start_x": 0.66545,
+    "start_y": 0.26263,
+    "end_x": 0.069088,
+    "end_y": 0.858647,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000000/00000503.jpg": {
+    "start_x": 0.62121,
+    "start_y": 0.37818,
+    "end_x": 0.768696,
+    "end_y": 0.826271,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000001/00001502.jpg": {
+    "start_x": 0.46,
+    "start_y": 0.53636,
+    "end_x": 0.667175,
+    "end_y": 0.266823,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000001/00001263.jpg": {
+    "start_x": 0.31673,
+    "start_y": 0.31712,
+    "end_x": 0.757559,
+    "end_y": 0.331183,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000002/00002529.jpg": {
+    "start_x": 0.42485,
+    "start_y": 0.098182,
+    "end_x": 0.116946,
+    "end_y": 0.28727,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000000/00000189.jpg": {
+    "start_x": 0.43279,
+    "start_y": 0.222,
+    "end_x": 0.12424,
+    "end_y": 0.302,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000001/00001412.jpg": {
+    "start_x": 0.218,
+    "start_y": 0.62012,
+    "end_x": 0.804203,
+    "end_y": 0.3844,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000004/00004347.jpg": {
+    "start_x": 0.54667,
+    "start_y": 0.31658,
+    "end_x": 0.803342,
+    "end_y": 0.949751,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000000/00000181.jpg": {
+    "start_x": 0.26364,
+    "start_y": 0.58972,
+    "end_x": 0.575866,
+    "end_y": 0.609674,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000000/00000287.jpg": {
+    "start_x": 0.33818,
+    "start_y": 0.22848,
+    "end_x": 0.502099,
+    "end_y": 0.874421,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000001/00001378.jpg": {
+    "start_x": 0.70545,
+    "start_y": 0.23084,
+    "end_x": 0.263423,
+    "end_y": 0.591917,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000003/00003011.jpg": {
+    "start_x": 0.8883,
+    "start_y": 0.39712,
+    "end_x": 0.370001,
+    "end_y": 0.558,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000004/00004402.jpg": {
+    "start_x": 0.504,
+    "start_y": 0.34906,
+    "end_x": 0.043446,
+    "end_y": 0.560799,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000001/00001605.jpg": {
+    "start_x": 0.45818,
+    "start_y": 0.19206,
+    "end_x": 0.482675,
+    "end_y": 0.02162,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000003/00003177.jpg": {
+    "start_x": 0.864,
+    "start_y": 0.20933,
+    "end_x": 0.63994,
+    "end_y": 0.147994,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000001/00001876.jpg": {
+    "start_x": 0.53653,
+    "start_y": 0.21063,
+    "end_x": 0.799036,
+    "end_y": 0.655252,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000003/00003466.jpg": {
+    "start_x": 0.53091,
+    "start_y": 0.25084,
+    "end_x": 0.421893,
+    "end_y": 0.136479,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000002/00002753.jpg": {
+    "start_x": 0.48303,
+    "start_y": 0.21091,
+    "end_x": 0.820717,
+    "end_y": 0.823695,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000003/00003652.jpg": {
+    "start_x": 0.65273,
+    "start_y": 0.30379,
+    "end_x": 0.371146,
+    "end_y": 0.631855,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000003/00003459.jpg": {
+    "start_x": 0.30545,
+    "start_y": 0.25689,
+    "end_x": 0.706993,
+    "end_y": 0.278469,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000000/00000658.jpg": {
+    "start_x": 0.35091,
+    "start_y": 0.25656,
+    "end_x": 0.743611,
+    "end_y": 0.554576,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000002/00002522.jpg": {
+    "start_x": 0.698,
+    "start_y": 0.3,
+    "end_x": 0.652989,
+    "end_y": 0.543466,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000000/00000119.jpg": {
+    "start_x": 0.80545,
+    "start_y": 0.32545,
+    "end_x": 0.389347,
+    "end_y": 0.340835,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000001/00001596.jpg": {
+    "start_x": 0.21215,
+    "start_y": 0.36757,
+    "end_x": 0.272031,
+    "end_y": 0.812122,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000003/00003382.jpg": {
+    "start_x": 0.73273,
+    "start_y": 0.12026,
+    "end_x": 0.400046,
+    "end_y": 0.934591,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000003/00003255.jpg": {
+    "start_x": 0.75636,
+    "start_y": 0.16825,
+    "end_x": 0.351468,
+    "end_y": 0.287849,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000003/00003433.jpg": {
+    "start_x": 0.86545,
+    "start_y": 0.22848,
+    "end_x": 0.707273,
+    "end_y": 0.406243,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000000/00000424.jpg": {
+    "start_x": 0.718,
+    "start_y": 0.30533,
+    "end_x": 0.353643,
+    "end_y": 0.402875,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000004/00004446.jpg": {
+    "start_x": 0.48909,
+    "start_y": 0.10847,
+    "end_x": 0.348087,
+    "end_y": 0.590412,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000001/00001914.jpg": {
+    "start_x": 0.22168,
+    "start_y": 0.30333,
+    "end_x": 0.443148,
+    "end_y": 0.380008,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000000/00000619.jpg": {
+    "start_x": 0.20909,
+    "start_y": 0.14846,
+    "end_x": 0.515621,
+    "end_y": 0.16159,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000003/00003113.jpg": {
+    "start_x": 0.37818,
+    "start_y": 0.27978,
+    "end_x": 0.507812,
+    "end_y": 0.890189,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000001/00001149.jpg": {
+    "start_x": 0.37,
+    "start_y": 0.16667,
+    "end_x": 0.612746,
+    "end_y": 0.901768,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000001/00001302.jpg": {
+    "start_x": 0.1,
+    "start_y": 0.20568,
+    "end_x": 0.858527,
+    "end_y": 0.320538,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000003/00003661.jpg": {
+    "start_x": 0.59818,
+    "start_y": 0.49273,
+    "end_x": 0.843868,
+    "end_y": 0.907762,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000001/00001071.jpg": {
+    "start_x": 0.46364,
+    "start_y": 0.21659,
+    "end_x": 0.859002,
+    "end_y": 0.861313,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000002/00002523.jpg": {
+    "start_x": 0.53273,
+    "start_y": 0.3006,
+    "end_x": 0.664981,
+    "end_y": 0.49439,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000001/00001638.jpg": {
+    "start_x": 0.57648,
+    "start_y": 0.11636,
+    "end_x": 0.785988,
+    "end_y": 0.325544,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000000/00000445.jpg": {
+    "start_x": 0.30909,
+    "start_y": 0.45367,
+    "end_x": 0.754548,
+    "end_y": 0.52998,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000001/00001717.jpg": {
+    "start_x": 0.33273,
+    "start_y": 0.33922,
+    "end_x": 0.690184,
+    "end_y": 0.394929,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000003/00003102.jpg": {
+    "start_x": 0.25273,
+    "start_y": 0.42242,
+    "end_x": 0.835301,
+    "end_y": 0.339638,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000000/00000454.jpg": {
+    "start_x": 0.16909,
+    "start_y": 0.34951,
+    "end_x": 0.837712,
+    "end_y": 0.422225,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000002/00002377.jpg": {
+    "start_x": 0.16182,
+    "start_y": 0.11212,
+    "end_x": 0.888632,
+    "end_y": 0.357468,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000000/00000302.jpg": {
+    "start_x": 0.72727,
+    "start_y": 0.4103,
+    "end_x": 0.611642,
+    "end_y": 0.834439,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000000/00000525.jpg": {
+    "start_x": 0.63455,
+    "start_y": 0.14352,
+    "end_x": 0.57969,
+    "end_y": 0.107221,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000004/00004462.jpg": {
+    "start_x": 0.72891,
+    "start_y": 0.79455,
+    "end_x": 0.829543,
+    "end_y": 0.084633,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000003/00003056.jpg": {
+    "start_x": 0.36098,
+    "start_y": 0.073133,
+    "end_x": 0.549016,
+    "end_y": 0.542063,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000003/00003496.jpg": {
+    "start_x": 0.32545,
+    "start_y": 0.34739,
+    "end_x": 0.574928,
+    "end_y": 0.28643,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000002/00002117.jpg": {
+    "start_x": 0.635,
+    "start_y": 0.286,
+    "end_x": 0.330004,
+    "end_y": 0.085997,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000000/00000776.jpg": {
+    "start_x": 0.26836,
+    "start_y": 0.36699,
+    "end_x": 0.404748,
+    "end_y": 0.433052,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000001/00001153.jpg": {
+    "start_x": 0.84008,
+    "start_y": 0.10309,
+    "end_x": 0.186668,
+    "end_y": 0.143856,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000003/00003534.jpg": {
+    "start_x": 0.23668,
+    "start_y": 0.097855,
+    "end_x": 0.62411,
+    "end_y": 0.123439,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000000/00000853.jpg": {
+    "start_x": 0.75067,
+    "start_y": 0.474,
+    "end_x": 0.060436,
+    "end_y": 0.811831,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000002/00002280.jpg": {
+    "start_x": 0.29636,
+    "start_y": 0.37727,
+    "end_x": 0.72012,
+    "end_y": 0.44059,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000002/00002383.jpg": {
+    "start_x": 0.38545,
+    "start_y": 0.19212,
+    "end_x": 0.843399,
+    "end_y": 0.602954,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000000/00000519.jpg": {
+    "start_x": 0.7784,
+    "start_y": 0.15501,
+    "end_x": 0.215501,
+    "end_y": 0.523801,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000004/00004494.jpg": {
+    "start_x": 0.38545,
+    "start_y": 0.4128,
+    "end_x": 0.71406,
+    "end_y": 0.78689,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000001/00001687.jpg": {
+    "start_x": 0.52364,
+    "start_y": 0.24929,
+    "end_x": 0.69219,
+    "end_y": 0.06089,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000002/00002735.jpg": {
+    "start_x": 0.35149,
+    "start_y": 0.53084,
+    "end_x": 0.89375,
+    "end_y": 0.62813,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000002/00002971.jpg": {
+    "start_x": 0.19636,
+    "start_y": 0.30924,
+    "end_x": 0.687219,
+    "end_y": 0.123639,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000002/00002216.jpg": {
+    "start_x": 0.36727,
+    "start_y": 0.22364,
+    "end_x": 0.542191,
+    "end_y": 0.200001,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000001/00001070.jpg": {
+    "start_x": 0.614,
+    "start_y": 0.39867,
+    "end_x": 0.179006,
+    "end_y": 0.759892,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000002/00002204.jpg": {
+    "start_x": 0.90364,
+    "start_y": 0.50273,
+    "end_x": 0.260809,
+    "end_y": 0.889176,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000000/00000967.jpg": {
+    "start_x": 0.60545,
+    "start_y": 0.098464,
+    "end_x": 0.81514,
+    "end_y": 0.788324,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000002/00002400.jpg": {
+    "start_x": 0.322,
+    "start_y": 0.25733,
+    "end_x": 0.456955,
+    "end_y": 0.584117,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000003/00003612.jpg": {
+    "start_x": 0.69,
+    "start_y": 0.27108,
+    "end_x": 0.452299,
+    "end_y": 0.250863,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000004/00004464.jpg": {
+    "start_x": 0.42182,
+    "start_y": 0.24545,
+    "end_x": 0.725467,
+    "end_y": 0.393685,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000002/00002123.jpg": {
+    "start_x": 0.262,
+    "start_y": 0.28933,
+    "end_x": 0.701159,
+    "end_y": 0.286273,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000003/00003673.jpg": {
+    "start_x": 0.242,
+    "start_y": 0.14535,
+    "end_x": 0.598883,
+    "end_y": 0.506152,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000000/00000628.jpg": {
+    "start_x": 0.4012,
+    "start_y": 0.24182,
+    "end_x": 0.47642,
+    "end_y": 0.49688,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000000/00000607.jpg": {
+    "start_x": 0.23818,
+    "start_y": 0.29636,
+    "end_x": 0.707798,
+    "end_y": 0.319976,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000004/00004543.jpg": {
+    "start_x": 0.22364,
+    "start_y": 0.37192,
+    "end_x": 0.82099,
+    "end_y": 0.559872,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000002/00002761.jpg": {
+    "start_x": 0.67117,
+    "start_y": 0.268,
+    "end_x": 0.713103,
+    "end_y": 0.717739,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000002/00002936.jpg": {
+    "start_x": 0.78727,
+    "start_y": 0.22848,
+    "end_x": 0.92969,
+    "end_y": 0.914582,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000001/00001425.jpg": {
+    "start_x": 0.88,
+    "start_y": 0.086667,
+    "end_x": 0.093413,
+    "end_y": 0.406253,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000004/00004546.jpg": {
+    "start_x": 0.258,
+    "start_y": 0.45733,
+    "end_x": 0.572704,
+    "end_y": 0.481553,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000003/00003101.jpg": {
+    "start_x": 0.334,
+    "start_y": 0.22009,
+    "end_x": 0.58185,
+    "end_y": 0.234272,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000003/00003104.jpg": {
+    "start_x": 0.78364,
+    "start_y": 0.41193,
+    "end_x": 0.581821,
+    "end_y": 0.139699,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000004/00004292.jpg": {
+    "start_x": 0.505,
+    "start_y": 0.29,
+    "end_x": 0.1025,
+    "end_y": 0.034,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000004/00004322.jpg": {
+    "start_x": 0.27818,
+    "start_y": 0.30364,
+    "end_x": 0.757811,
+    "end_y": 0.170831,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000003/00003616.jpg": {
+    "start_x": 0.13091,
+    "start_y": 0.33446,
+    "end_x": 0.461746,
+    "end_y": 0.286372,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000002/00002810.jpg": {
+    "start_x": 0.39818,
+    "start_y": 0.17843,
+    "end_x": 0.763571,
+    "end_y": 0.270304,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000000/00000442.jpg": {
+    "start_x": 0.53233,
+    "start_y": 0.17232,
+    "end_x": 0.312639,
+    "end_y": 0.625889,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000004/00004675.jpg": {
+    "start_x": 0.40166,
+    "start_y": 0.20909,
+    "end_x": 0.900215,
+    "end_y": 0.523384,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000001/00001419.jpg": {
+    "start_x": 0.54364,
+    "start_y": 0.14846,
+    "end_x": 0.885449,
+    "end_y": 0.862447,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000001/00001155.jpg": {
+    "start_x": 0.722,
+    "start_y": 0.332,
+    "end_x": 0.425683,
+    "end_y": 0.367159,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000003/00003112.jpg": {
+    "start_x": 0.52545,
+    "start_y": 0.35557,
+    "end_x": 0.367431,
+    "end_y": 0.830868,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000002/00002626.jpg": {
+    "start_x": 0.070909,
+    "start_y": 0.36667,
+    "end_x": 0.335334,
+    "end_y": 0.613636,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000001/00001183.jpg": {
+    "start_x": 0.34909,
+    "start_y": 0.21659,
+    "end_x": 0.923631,
+    "end_y": 0.322081,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000001/00001825.jpg": {
+    "start_x": 0.40075,
+    "start_y": 0.2575,
+    "end_x": 0.29775,
+    "end_y": 0.9325,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000001/00001576.jpg": {
+    "start_x": 0.24727,
+    "start_y": 0.4346,
+    "end_x": 0.727814,
+    "end_y": 0.354292,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000002/00002993.jpg": {
+    "start_x": 0.46182,
+    "start_y": 0.12691,
+    "end_x": 0.674864,
+    "end_y": 0.901207,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000000/00000074.jpg": {
+    "start_x": 0.64364,
+    "start_y": 0.23937,
+    "end_x": 0.47273,
+    "end_y": 0.3183,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000001/00001501.jpg": {
+    "start_x": 0.56324,
+    "start_y": 0.47818,
+    "end_x": 0.66576,
+    "end_y": 0.80625,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000002/00002721.jpg": {
+    "start_x": 0.68596,
+    "start_y": 0.17651,
+    "end_x": 0.496343,
+    "end_y": 0.920399,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000001/00001603.jpg": {
+    "start_x": 0.47815,
+    "start_y": 0.28364,
+    "end_x": 0.825847,
+    "end_y": 0.79075,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000002/00002970.jpg": {
+    "start_x": 0.08,
+    "start_y": 0.17843,
+    "end_x": 0.473044,
+    "end_y": 0.284992,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000002/00002234.jpg": {
+    "start_x": 0.41418,
+    "start_y": 0.14181,
+    "end_x": 0.234415,
+    "end_y": 0.865096,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000000/00000234.jpg": {
+    "start_x": 0.53091,
+    "start_y": 0.32545,
+    "end_x": 0.561954,
+    "end_y": 0.840822,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000002/00002353.jpg": {
+    "start_x": 0.72,
+    "start_y": 0.28182,
+    "end_x": 0.861504,
+    "end_y": 0.861288,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000000/00000547.jpg": {
+    "start_x": 0.72364,
+    "start_y": 0.47698,
+    "end_x": 0.131061,
+    "end_y": 0.153206,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000000/00000484.jpg": {
+    "start_x": 0.81333,
+    "start_y": 0.35809,
+    "end_x": 0.187464,
+    "end_y": 0.909551,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000000/00000388.jpg": {
+    "start_x": 0.528,
+    "start_y": 0.32282,
+    "end_x": 0.832279,
+    "end_y": 0.282303,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000001/00001682.jpg": {
+    "start_x": 0.44545,
+    "start_y": 0.32014,
+    "end_x": 0.519855,
+    "end_y": 0.918827,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000001/00001612.jpg": {
+    "start_x": 0.40182,
+    "start_y": 0.37376,
+    "end_x": 0.499369,
+    "end_y": 0.840537,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000003/00003152.jpg": {
+    "start_x": 0.244,
+    "start_y": 0.31492,
+    "end_x": 0.578579,
+    "end_y": 0.236229,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000002/00002412.jpg": {
+    "start_x": 0.60909,
+    "start_y": 0.31091,
+    "end_x": 0.505587,
+    "end_y": 0.805291,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000001/00001397.jpg": {
+    "start_x": 0.66727,
+    "start_y": 0.72545,
+    "end_x": 0.523769,
+    "end_y": 0.429242,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000000/00000705.jpg": {
+    "start_x": 0.34,
+    "start_y": 0.25474,
+    "end_x": 0.94531,
+    "end_y": 0.67214,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000004/00004663.jpg": {
+    "start_x": 0.27636,
+    "start_y": 0.40788,
+    "end_x": 0.86562,
+    "end_y": 0.47708,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000000/00000746.jpg": {
+    "start_x": 0.604,
+    "start_y": 0.48507,
+    "end_x": 0.488,
+    "end_y": 0.87207,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000001/00001615.jpg": {
+    "start_x": 0.20545,
+    "start_y": 0.179,
+    "end_x": 0.317236,
+    "end_y": 0.855545,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000001/00001018.jpg": {
+    "start_x": 0.18727,
+    "start_y": 0.20909,
+    "end_x": 0.549502,
+    "end_y": 0.830692,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000003/00003012.jpg": {
+    "start_x": 0.68,
+    "start_y": 0.39333,
+    "end_x": 0.363993,
+    "end_y": 0.437338,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000000/00000513.jpg": {
+    "start_x": 0.55273,
+    "start_y": 0.31571,
+    "end_x": 0.407837,
+    "end_y": 0.749005,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000003/00003500.jpg": {
+    "start_x": 0.22268,
+    "start_y": 0.29091,
+    "end_x": 0.403318,
+    "end_y": 0.28977,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000003/00003033.jpg": {
+    "start_x": 0.72346,
+    "start_y": 0.36909,
+    "end_x": 0.265605,
+    "end_y": 0.435688,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000004/00004633.jpg": {
+    "start_x": 0.14727,
+    "start_y": 0.29513,
+    "end_x": 0.635049,
+    "end_y": 0.223096,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000003/00003597.jpg": {
+    "start_x": 0.495,
+    "start_y": 0.47,
+    "end_x": 0.290888,
+    "end_y": 0.086913,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000000/00000157.jpg": {
+    "start_x": 0.376,
+    "start_y": 0.06,
+    "end_x": 0.45881,
+    "end_y": 0.687622,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000000/00000211.jpg": {
+    "start_x": 0.602,
+    "start_y": 0.34,
+    "end_x": 0.174817,
+    "end_y": 0.281515,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000001/00001038.jpg": {
+    "start_x": 0.4838,
+    "start_y": 0.34003,
+    "end_x": 0.822794,
+    "end_y": 0.828613,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000000/00000107.jpg": {
+    "start_x": 0.43229,
+    "start_y": 0.32602,
+    "end_x": 0.89383,
+    "end_y": 0.529095,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000003/00003439.jpg": {
+    "start_x": 0.59939,
+    "start_y": 0.33273,
+    "end_x": 0.712896,
+    "end_y": 0.562171,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000001/00001098.jpg": {
+    "start_x": 0.13455,
+    "start_y": 0.26485,
+    "end_x": 0.896653,
+    "end_y": 0.833909,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000002/00002885.jpg": {
+    "start_x": 0.46,
+    "start_y": 0.21152,
+    "end_x": 0.396528,
+    "end_y": 0.749282,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000001/00001462.jpg": {
+    "start_x": 0.63636,
+    "start_y": 0.32056,
+    "end_x": 0.384076,
+    "end_y": 0.418307,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000004/00004363.jpg": {
+    "start_x": 0.20364,
+    "start_y": 0.47002,
+    "end_x": 0.759852,
+    "end_y": 0.550259,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000000/00000845.jpg": {
+    "start_x": 0.60364,
+    "start_y": 0.22606,
+    "end_x": 0.374909,
+    "end_y": 0.757724,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000000/00000597.jpg": {
+    "start_x": 0.48607,
+    "start_y": 0.28719,
+    "end_x": 0.919085,
+    "end_y": 0.312447,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000000/00000413.jpg": {
+    "start_x": 0.218,
+    "start_y": 0.39333,
+    "end_x": 0.697557,
+    "end_y": 0.332487,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000003/00003397.jpg": {
+    "start_x": 0.45455,
+    "start_y": 0.60512,
+    "end_x": 0.45091,
+    "end_y": 0.77089,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000002/00002346.jpg": {
+    "start_x": 0.31333,
+    "start_y": 0.40545,
+    "end_x": 0.754131,
+    "end_y": 0.142102,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000002/00002520.jpg": {
+    "start_x": 0.118,
+    "start_y": 0.73704,
+    "end_x": 0.262001,
+    "end_y": 0.68148,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000001/00001657.jpg": {
+    "start_x": 0.54819,
+    "start_y": 0.192,
+    "end_x": 0.397974,
+    "end_y": 0.747949,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000002/00002258.jpg": {
+    "start_x": 0.70182,
+    "start_y": 0.47091,
+    "end_x": 0.429482,
+    "end_y": 0.32889,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000000/00000590.jpg": {
+    "start_x": 0.48504,
+    "start_y": 0.33667,
+    "end_x": 0.13285,
+    "end_y": 0.163281,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000000/00000721.jpg": {
+    "start_x": 0.828,
+    "start_y": 0.568,
+    "end_x": 0.956379,
+    "end_y": 0.639201,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000000/00000144.jpg": {
+    "start_x": 0.26909,
+    "start_y": 0.5,
+    "end_x": 0.452216,
+    "end_y": 0.725393,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000003/00003463.jpg": {
+    "start_x": 0.84182,
+    "start_y": 0.34354,
+    "end_x": 0.262806,
+    "end_y": 0.553618,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000003/00003142.jpg": {
+    "start_x": 0.43455,
+    "start_y": 0.12545,
+    "end_x": 0.920283,
+    "end_y": 0.485947,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000002/00002532.jpg": {
+    "start_x": 0.742,
+    "start_y": 0.22,
+    "end_x": 0.488503,
+    "end_y": 0.583579,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000002/00002281.jpg": {
+    "start_x": 0.58,
+    "start_y": 0.216,
+    "end_x": 0.149335,
+    "end_y": 0.286006,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000003/00003130.jpg": {
+    "start_x": 0.49455,
+    "start_y": 0.43203,
+    "end_x": 0.665206,
+    "end_y": 0.819088,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000001/00001737.jpg": {
+    "start_x": 0.45733,
+    "start_y": 0.254,
+    "end_x": 0.855146,
+    "end_y": 0.256084,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000003/00003312.jpg": {
+    "start_x": 0.36727,
+    "start_y": 0.44005,
+    "end_x": 0.495833,
+    "end_y": 0.277891,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000003/00003191.jpg": {
+    "start_x": 0.49636,
+    "start_y": 0.21458,
+    "end_x": 0.859012,
+    "end_y": 0.321111,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000001/00001619.jpg": {
+    "start_x": 0.2487,
+    "start_y": 0.24,
+    "end_x": 0.411587,
+    "end_y": 0.386777,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000000/00000116.jpg": {
+    "start_x": 0.37636,
+    "start_y": 0.45394,
+    "end_x": 0.710516,
+    "end_y": 0.84798,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000004/00004437.jpg": {
+    "start_x": 0.18815,
+    "start_y": 0.3136,
+    "end_x": 0.643722,
+    "end_y": 0.58853,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000001/00001759.jpg": {
+    "start_x": 0.258,
+    "start_y": 0.19067,
+    "end_x": 0.743776,
+    "end_y": 0.82171,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000003/00003377.jpg": {
+    "start_x": 0.40182,
+    "start_y": 0.2656,
+    "end_x": 0.69818,
+    "end_y": 0.40233,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000001/00001932.jpg": {
+    "start_x": 0.72,
+    "start_y": 0.20682,
+    "end_x": 0.057906,
+    "end_y": 0.171826,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000001/00001714.jpg": {
+    "start_x": 0.19273,
+    "start_y": 0.087879,
+    "end_x": 0.363939,
+    "end_y": 0.301017,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000003/00003017.jpg": {
+    "start_x": 0.21818,
+    "start_y": 0.51635,
+    "end_x": 0.835149,
+    "end_y": 0.625907,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000000/00000676.jpg": {
+    "start_x": 0.7432,
+    "start_y": 0.31891,
+    "end_x": 0.800136,
+    "end_y": 0.638354,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000000/00000412.jpg": {
+    "start_x": 0.54819,
+    "start_y": 0.188,
+    "end_x": 0.334219,
+    "end_y": 0.774166,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000001/00001414.jpg": {
+    "start_x": 0.44,
+    "start_y": 0.29882,
+    "end_x": 0.875835,
+    "end_y": 0.5351,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000001/00001851.jpg": {
+    "start_x": 0.712,
+    "start_y": 0.35039,
+    "end_x": 0.221362,
+    "end_y": 0.477111,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000001/00001216.jpg": {
+    "start_x": 0.38,
+    "start_y": 0.18,
+    "end_x": 0.171164,
+    "end_y": 0.199146,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000001/00001076.jpg": {
+    "start_x": 0.49636,
+    "start_y": 0.27822,
+    "end_x": 0.222663,
+    "end_y": 0.781216,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000002/00002629.jpg": {
+    "start_x": 0.23636,
+    "start_y": 0.37636,
+    "end_x": 0.77813,
+    "end_y": 0.668771,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000002/00002031.jpg": {
+    "start_x": 0.24909,
+    "start_y": 0.27188,
+    "end_x": 0.531564,
+    "end_y": 0.310663,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000003/00003521.jpg": {
+    "start_x": 0.45455,
+    "start_y": 0.23021,
+    "end_x": 0.69688,
+    "end_y": 0.77986,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000004/00004438.jpg": {
+    "start_x": 0.79,
+    "start_y": 0.29104,
+    "end_x": 0.500004,
+    "end_y": 0.848624,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000000/00000698.jpg": {
+    "start_x": 0.30182,
+    "start_y": 0.25746,
+    "end_x": 0.598563,
+    "end_y": 0.290452,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000001/00001864.jpg": {
+    "start_x": 0.72407,
+    "start_y": 0.38727,
+    "end_x": 0.026292,
+    "end_y": 0.098386,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000003/00003470.jpg": {
+    "start_x": 0.58364,
+    "start_y": 0.38121,
+    "end_x": 0.864407,
+    "end_y": 0.791878,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000002/00002589.jpg": {
+    "start_x": 0.78727,
+    "start_y": 0.33732,
+    "end_x": 0.028879,
+    "end_y": 0.646545,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000001/00001852.jpg": {
+    "start_x": 0.18545,
+    "start_y": 0.14576,
+    "end_x": 0.673439,
+    "end_y": 0.136279,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000003/00003188.jpg": {
+    "start_x": 0.25818,
+    "start_y": 0.37907,
+    "end_x": 0.468949,
+    "end_y": 0.503926,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000002/00002516.jpg": {
+    "start_x": 0.78727,
+    "start_y": 0.19939,
+    "end_x": 0.027557,
+    "end_y": 0.338892,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000002/00002326.jpg": {
+    "start_x": 0.33377,
+    "start_y": 0.69091,
+    "end_x": 0.711939,
+    "end_y": 0.856251,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000002/00002223.jpg": {
+    "start_x": 0.47,
+    "start_y": 0.20418,
+    "end_x": 0.276002,
+    "end_y": 0.522506,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000002/00002813.jpg": {
+    "start_x": 0.39091,
+    "start_y": 0.26,
+    "end_x": 0.101565,
+    "end_y": 0.12501,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000003/00003406.jpg": {
+    "start_x": 0.478,
+    "start_y": 0.244,
+    "end_x": 0.540964,
+    "end_y": 0.802853,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000004/00004614.jpg": {
+    "start_x": 0.69455,
+    "start_y": 0.29921,
+    "end_x": 0.3359,
+    "end_y": 0.247197,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000000/00000557.jpg": {
+    "start_x": 0.518,
+    "start_y": 0.45467,
+    "end_x": 0.050003,
+    "end_y": 0.166664,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000001/00001084.jpg": {
+    "start_x": 0.60133,
+    "start_y": 0.298,
+    "end_x": 0.163992,
+    "end_y": 0.750086,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000002/00002314.jpg": {
+    "start_x": 0.31455,
+    "start_y": 0.27654,
+    "end_x": 0.597573,
+    "end_y": 0.903117,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000000/00000254.jpg": {
+    "start_x": 0.37818,
+    "start_y": 0.29834,
+    "end_x": 0.979641,
+    "end_y": 0.533981,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000001/00001924.jpg": {
+    "start_x": 0.63357,
+    "start_y": 0.28364,
+    "end_x": 0.20088,
+    "end_y": 0.75,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000002/00002177.jpg": {
+    "start_x": 0.968,
+    "start_y": 0.23067,
+    "end_x": 0.645454,
+    "end_y": 0.549784,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000003/00003416.jpg": {
+    "start_x": 0.28727,
+    "start_y": 0.43182,
+    "end_x": 0.664062,
+    "end_y": 0.429693,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000004/00004606.jpg": {
+    "start_x": 0.56545,
+    "start_y": 0.23566,
+    "end_x": 0.36728,
+    "end_y": 0.382826,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000003/00003292.jpg": {
+    "start_x": 0.55981,
+    "start_y": 0.34182,
+    "end_x": 0.338791,
+    "end_y": 0.20938,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000003/00003638.jpg": {
+    "start_x": 0.51,
+    "start_y": 0.37,
+    "end_x": 0.676535,
+    "end_y": 0.806253,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000003/00003196.jpg": {
+    "start_x": 0.77153,
+    "start_y": 0.14549,
+    "end_x": 0.178262,
+    "end_y": 0.313992,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000004/00004288.jpg": {
+    "start_x": 0.61818,
+    "start_y": 0.245,
+    "end_x": 0.661877,
+    "end_y": 0.679293,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000002/00002983.jpg": {
+    "start_x": 0.48909,
+    "start_y": 0.22347,
+    "end_x": 0.940689,
+    "end_y": 0.708535,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000001/00001072.jpg": {
+    "start_x": 0.39091,
+    "start_y": 0.19636,
+    "end_x": 0.56042,
+    "end_y": 0.675,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000001/00001698.jpg": {
+    "start_x": 0.60356,
+    "start_y": 0.64364,
+    "end_x": 0.911303,
+    "end_y": 0.141029,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000004/00004261.jpg": {
+    "start_x": 0.58364,
+    "start_y": 0.29763,
+    "end_x": 0.405449,
+    "end_y": 0.56476,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000003/00003289.jpg": {
+    "start_x": 0.77907,
+    "start_y": 0.49,
+    "end_x": 0.322072,
+    "end_y": 0.259147,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000003/00003586.jpg": {
+    "start_x": 0.57273,
+    "start_y": 0.19636,
+    "end_x": 0.252973,
+    "end_y": 0.812804,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000000/00000665.jpg": {
+    "start_x": 0.26545,
+    "start_y": 0.073152,
+    "end_x": 0.186674,
+    "end_y": 0.211482,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000003/00003419.jpg": {
+    "start_x": 0.62182,
+    "start_y": 0.27455,
+    "end_x": 0.552942,
+    "end_y": 0.820726,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000001/00001041.jpg": {
+    "start_x": 0.021818,
+    "start_y": 0.69636,
+    "end_x": 0.941053,
+    "end_y": 0.424932,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000002/00002631.jpg": {
+    "start_x": 0.82791,
+    "start_y": 0.24545,
+    "end_x": 0.574141,
+    "end_y": 0.331259,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  },
+  "gf:test/00000000/00000854.jpg": {
+    "start_x": 0.73818,
+    "start_y": 0.15253,
+    "end_x": 0.584904,
+    "end_y": 0.90815,
+    "format": "normalized",
+    "start_source": "gazefollow_original_eye_location",
+    "end_source": "gazefollow_original_gaze_point"
+  }
+}

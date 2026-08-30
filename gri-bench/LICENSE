@@ -1,0 +1,9 @@
+GRI-Bench annotations (c) the GRI-Bench authors.
+
+This annotation pack (JSONL records, prompts, and derived arrow coordinates)
+is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).
+https://creativecommons.org/licenses/by/4.0/
+
+This pack does not include Zhang et al. Stimuli, VideoAttentionTarget, or
+GazeFollow pixels. Those materials remain under their original licenses.
+Do not treat this file as permission to redistribute those images.
