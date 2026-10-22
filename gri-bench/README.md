@@ -55,5 +55,5 @@ their original licenses. Do not upload those images with this pack.
 
 ## Contact
 
-Anonymous MMM 2027 submission. A camera-ready author list and DOI will
-replace this line upon publication.
+Han Tang, Bin Zhu, Chong Wah Ngo, and Ee Peng Lim, Singapore Management
+University. A DOI will be added upon publication.

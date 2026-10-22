@@ -1,6 +1,6 @@
-# GRI-Bench — MMM 2027 anonymous artifacts
+# GRI-Bench — MMM 2027 artifacts
 
-Anonymous supplementary material and annotation pack for the MMM 2027 submission *Directional Prompting for Gaze-Referential Inference in Large Multimodal Models*.
+Supplementary material and annotation pack for the MMM 2027 paper *Directional Prompting for Gaze-Referential Inference in Large Multimodal Models* (Han Tang, Bin Zhu, Chong Wah Ngo, Ee Peng Lim; Singapore Management University).
 
 ## Downloads
 
